@@ -1,7 +1,1 @@
-Hi,
-
-This project was my attempt at building a seq2seq LTSM Machine Translator. The model is currently fed with one-hot-encodings as at the time I was unaware of other embedding tpyes like Word2Vec. Please download the text file data from the following link: http://www.manythings.org/anki/ Note, you will also need to change the name of the text file the script reads if you want to use a different language.
-
-I hope you enjoy it! 
-
-Ethan
+This project is a seq2seq LTSM Machine Translator. The model is currently fed with one-hot-encodings as at the time I was unaware of other embedding tpyes like Word2Vec. Please download the text file data from the following link: http://www.manythings.org/anki/ Note, you will also need to change the name of the text file the script reads if you want to use a different language.
