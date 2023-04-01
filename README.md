@@ -1,3 +1,5 @@
-# NLP
+Custom Trained GPT2 Model to finish your sentence. Trained on a corpus of NHL interviews.
 
-This repo showcases some of my NLP projects
+run_ChatBot --> How to run the chatbot
+
+Train_GPT2 --> How I custom trained the GPT2 model on the corpus
